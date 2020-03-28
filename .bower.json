@@ -1,0 +1,29 @@
+{
+  "name": "angular-owl-carousel-directive",
+  "authors": [
+    "Alex Andries <alexandru.andries@outlook.com>"
+  ],
+  "description": "Owl Carousel Directive of Angular 1",
+  "main": "dist/angular-owl-carousel-directive.min.js",
+  "keywords": [
+    "owl",
+    "carousel",
+    "angular",
+    "directive"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/DjKarui/angular-owl-carousel-directive",
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "owl.carousel": "^2.1.6"
+  },
+  "_release": "07da0105c8",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "07da0105c8d80bdff220a25ac7e3e1304c3ec4c7"
+  },
+  "_source": "https://github.com/DjKarui/angular-owl-carousel-directive.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/DjKarui/angular-owl-carousel-directive.git"
+}
